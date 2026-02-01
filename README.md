@@ -162,15 +162,3 @@ D:\Sampling\
 ├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 ```
-
-## 14. Future Improvements
-
-- Increase sample size if more minority class samples become available
-- Implement cross-validation for more robust evaluation
-- Add additional metrics (Precision, Recall, F1-Score, ROC-AUC)
-- Experiment with SMOTE and other synthetic oversampling techniques
-- Perform hyperparameter tuning for each model
-
----
-
-**Note:** This analysis demonstrates the importance of proper sampling techniques when dealing with highly imbalanced datasets. The results should be validated on a larger dataset for production use.
